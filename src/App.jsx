@@ -1,13 +1,12 @@
 import './App.css'
+import AppRouts from './routes/AppRouts'
 
 function App() {
  
 
   return (
   
-      <div>
-    
-    </div>
+<AppRouts/>
   )
 }
 
